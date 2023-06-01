@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'shlingang.ai'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'A NEW AI SITE'
+theme = 'risotto'
