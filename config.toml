@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://shlingang.ai'
 languageCode = 'en-us'
 title = 'A NEW AI SITE'
 theme = 'risotto'
