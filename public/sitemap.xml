@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>shlingang.ai/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>shlingang.ai/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>shlingang.ai/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

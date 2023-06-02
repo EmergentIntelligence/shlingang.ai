@@ -2,3 +2,19 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'A NEW AI SITE'
 theme = 'risotto'
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
+
+[params.theme]
+palette = "base16-dark"
+
+[menu]
+  [[menu.main]]
+    name = "posts"
+    url = "posts/"
+    weight = 1
+  [[menu.main]]
+    name = "about"
+    url = "about"
+    weight = 2
